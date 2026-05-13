@@ -1,0 +1,22 @@
+# Large data files
+*.npz
+*.npy
+*.zip
+*.tar.gz
+*.tar
+
+# Job logs
+outputs/*.out
+outputs/*.err
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
